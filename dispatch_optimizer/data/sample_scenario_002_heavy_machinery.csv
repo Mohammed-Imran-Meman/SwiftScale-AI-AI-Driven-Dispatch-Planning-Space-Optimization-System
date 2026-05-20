@@ -1,0 +1,101 @@
+Product,Weight,Length,Width,Height,Fragile,Destination,Priority,DispatchDate
+Engine Block - Variant 001,247.2,2.8,1.6,1.1,False,ShelfArea3,High,2025-01-05
+Engine Block - Variant 002,248.6,2.4,1.9,1.2,False,BulkStorage,Medium,2024-12-22
+Engine Block - Variant 003,413.3,2.5,1.7,1.5,False,Aisle9,Medium,2025-01-17
+Engine Block - Variant 004,362.8,2.4,1.7,1.1,False,ZoneE,Medium,2025-01-19
+Engine Block - Variant 005,242.9,2.4,2.3,1.3,False,SlowMoving,High,2024-12-23
+Engine Block - Variant 006,231.7,3.0,2.0,1.2,False,ZoneC,Low,2025-01-03
+Engine Block - Variant 007,275.7,2.9,1.7,1.3,False,ShelfArea2,Medium,2025-01-26
+Engine Block - Variant 008,405.4,2.4,2.3,1.4,False,ZoneH,Medium,2025-02-07
+Engine Block - Variant 009,393.4,3.1,2.2,1.3,False,SmallItems,High,2025-01-08
+Engine Block - Variant 010,329.7,2.6,1.8,1.2,False,Priority4,Medium,2025-02-06
+Engine Block - Variant 011,241.6,2.3,1.9,1.0,False,AutomatedStorage4,High,2024-12-23
+Engine Block - Variant 012,421.6,2.1,2.1,1.1,False,HeavyItems,High,2025-01-08
+Engine Block - Variant 013,416.4,2.2,2.3,1.4,False,Aisle4,Low,2025-01-18
+Engine Block - Variant 014,373.2,2.8,1.7,1.5,False,LoadingDock2,High,2025-02-09
+Engine Block - Variant 015,414.3,2.6,1.9,1.3,False,PalletArea3,Medium,2025-02-04
+Engine Block - Variant 016,269.9,2.2,1.8,1.1,False,Rack3,Medium,2025-02-18
+Engine Block - Variant 017,324.9,2.9,2.2,1.1,False,Mezzanine2,Low,2025-01-24
+Engine Block - Variant 018,292.7,2.4,2.4,1.5,False,ShelfArea2,Low,2024-12-27
+Engine Block - Variant 019,339.6,2.7,2.2,1.3,False,LoadingDock2,High,2025-02-02
+Engine Block - Variant 020,364.2,3.1,2.1,1.1,False,Rack6,Low,2024-12-31
+Gear Box - Variant 001,141.3,1.4,1.4,1.1,False,Floor1,Medium,2025-02-09
+Gear Box - Variant 002,140.4,1.8,1.4,0.8,False,LoadingDock5,Medium,2025-02-03
+Gear Box - Variant 003,125.1,1.6,1.2,0.9,False,Rack10,Low,2024-12-27
+Gear Box - Variant 004,210.9,1.5,1.1,0.8,False,BulkItems,Medium,2025-01-09
+Gear Box - Variant 005,190.4,1.7,1.3,1.2,False,AutomatedStorage2,Low,2025-01-24
+Gear Box - Variant 006,204.1,1.7,1.3,0.9,False,Mezzanine3,Low,2025-01-22
+Gear Box - Variant 007,117.5,1.5,1.3,0.8,False,ShippingArea,Low,2025-02-13
+Gear Box - Variant 008,141.2,1.5,1.4,1.2,False,MediumItems,High,2024-12-25
+Gear Box - Variant 009,165.3,1.8,1.2,0.8,False,ManualStorage2,Medium,2024-12-24
+Gear Box - Variant 010,158.5,1.8,1.5,1.0,False,ShelfArea1,High,2025-01-13
+Gear Box - Variant 011,179.6,1.3,1.4,1.0,False,ManualStorage5,Medium,2025-01-19
+Gear Box - Variant 012,117.0,1.3,1.5,1.1,False,Floor3,High,2025-01-10
+Gear Box - Variant 013,174.9,1.8,1.1,0.9,False,HeavyItems,Low,2025-02-03
+Gear Box - Variant 014,206.2,1.5,1.3,0.9,False,Aisle4,High,2025-01-06
+Gear Box - Variant 015,168.4,1.5,1.3,1.2,False,PalletArea1,Medium,2024-12-22
+Gear Box - Variant 016,120.8,1.6,1.4,0.9,False,LoadingDock3,Medium,2025-02-12
+Gear Box - Variant 017,147.6,1.6,1.1,0.8,False,PalletArea1,High,2025-02-17
+Gear Box - Variant 018,176.4,1.4,1.3,1.0,False,Floor2,Medium,2025-01-02
+Gear Box - Variant 019,213.6,1.3,1.3,1.0,False,PalletArea3,Low,2025-01-09
+Gear Box - Variant 020,197.7,1.5,1.3,1.0,False,Rack3,High,2025-01-28
+Hydraulic Pump - Variant 001,98.2,0.9,0.9,0.6,False,QualityControl,Medium,2025-01-06
+Hydraulic Pump - Variant 002,110.4,1.3,0.9,0.6,False,Rack9,High,2024-12-28
+Hydraulic Pump - Variant 003,109.4,1.0,0.7,0.7,False,BulkItems,Medium,2025-01-05
+Hydraulic Pump - Variant 004,110.7,1.3,0.9,0.7,False,LargeItems,High,2025-01-21
+Hydraulic Pump - Variant 005,89.7,1.1,0.9,0.6,False,BulkItems,Low,2025-02-19
+Hydraulic Pump - Variant 006,104.6,1.1,0.7,0.7,False,Rack1,Low,2025-01-10
+Hydraulic Pump - Variant 007,72.6,1.1,0.8,0.7,False,AutomatedStorage5,High,2025-02-18
+Hydraulic Pump - Variant 008,79.5,1.1,1.0,0.8,False,Rack10,Medium,2025-01-23
+Hydraulic Pump - Variant 009,118.4,0.9,0.8,0.8,False,ShelfArea1,Medium,2025-01-09
+Hydraulic Pump - Variant 010,121.8,1.2,0.7,0.8,False,ZoneC,Low,2025-01-29
+Hydraulic Pump - Variant 011,106.6,1.0,0.9,0.8,False,Rack9,Medium,2025-02-05
+Hydraulic Pump - Variant 012,90.8,1.2,0.9,0.8,False,AutomatedStorage1,Low,2025-02-21
+Hydraulic Pump - Variant 013,74.2,0.9,0.9,0.7,False,SectionH,Medium,2025-01-03
+Hydraulic Pump - Variant 014,123.3,1.1,0.9,0.7,False,Basement3,Medium,2025-01-07
+Hydraulic Pump - Variant 015,84.9,0.9,0.9,0.7,False,ZoneA,Medium,2025-02-17
+Hydraulic Pump - Variant 016,83.2,0.9,0.7,0.6,False,MediumItems,High,2025-01-28
+Hydraulic Pump - Variant 017,98.7,1.0,0.9,0.6,False,Priority4,Low,2025-01-10
+Hydraulic Pump - Variant 018,89.6,1.0,0.7,0.6,False,ExpressLane,High,2025-01-07
+Hydraulic Pump - Variant 019,91.4,1.0,0.8,0.7,False,ZoneI,Low,2025-02-16
+Hydraulic Pump - Variant 020,115.1,1.3,0.9,0.6,False,OverflowStorage,Low,2025-02-12
+Turbine - Variant 001,439.8,3.7,2.6,2.3,False,ZoneC,High,2025-02-22
+Turbine - Variant 002,534.9,3.7,2.3,1.7,False,ZoneH,High,2025-01-30
+Turbine - Variant 003,312.2,3.4,2.2,2.1,False,Basement3,Low,2025-01-05
+Turbine - Variant 004,347.9,2.7,3.0,1.8,False,StandardLane,Low,2025-01-16
+Turbine - Variant 005,425.0,2.8,2.8,2.2,False,HighBay1,Low,2025-02-02
+Turbine - Variant 006,453.8,3.2,2.5,2.3,False,Basement1,Medium,2025-01-13
+Turbine - Variant 007,368.5,2.8,2.5,2.1,False,LoadingDock5,Low,2025-01-14
+Turbine - Variant 008,503.4,3.1,3.0,2.0,True,ManualStorage2,Low,2025-02-18
+Turbine - Variant 009,373.4,3.5,2.4,1.7,True,SectionC,Medium,2024-12-27
+Turbine - Variant 010,548.0,3.6,2.8,1.8,True,HighBay2,Low,2025-02-04
+Turbine - Variant 011,539.3,3.9,2.3,2.4,True,ManualStorage2,High,2024-12-28
+Turbine - Variant 012,438.4,3.3,2.4,1.8,False,Mezzanine4,High,2025-02-21
+Turbine - Variant 013,506.2,2.8,2.7,1.8,False,OverflowLane,Medium,2025-02-02
+Turbine - Variant 014,452.3,3.9,2.1,1.7,False,LoadingDock4,Low,2025-02-22
+Turbine - Variant 015,406.7,3.2,2.5,2.0,True,PremiumLane,High,2025-02-19
+Turbine - Variant 016,400.3,2.8,2.5,2.2,False,Mezzanine4,Medium,2025-02-04
+Turbine - Variant 017,332.2,3.5,2.5,1.8,False,ReceivingArea,Low,2024-12-25
+Turbine - Variant 018,372.1,2.9,2.4,2.2,True,SectionG,Low,2025-01-31
+Turbine - Variant 019,564.6,3.2,2.8,2.3,True,SlowMoving,Low,2025-01-07
+Turbine - Variant 020,521.4,2.7,3.0,2.0,False,BulkItems,Medium,2025-01-08
+Compressor - Variant 001,196.4,1.8,1.4,1.6,False,Priority4,High,2025-02-09
+Compressor - Variant 002,200.0,2.7,1.3,1.4,False,SectionE,High,2025-01-28
+Compressor - Variant 003,275.9,2.0,1.4,1.5,False,Basement1,High,2024-12-29
+Compressor - Variant 004,250.8,2.1,1.6,1.2,False,Floor4,High,2024-12-28
+Compressor - Variant 005,287.3,1.9,1.6,1.4,False,ZoneH,High,2025-01-20
+Compressor - Variant 006,192.0,2.3,1.4,1.4,False,ZoneG,Medium,2025-02-13
+Compressor - Variant 007,204.8,2.3,1.4,1.7,False,ZoneJ,Medium,2025-01-25
+Compressor - Variant 008,277.9,1.9,1.7,1.6,False,ManualStorage4,Low,2025-02-15
+Compressor - Variant 009,268.7,2.2,1.7,1.7,False,ReceivingArea,Medium,2025-02-03
+Compressor - Variant 010,270.8,2.2,1.8,1.7,False,Basement5,Medium,2025-01-09
+Compressor - Variant 011,233.7,2.2,1.4,1.3,False,Rack5,Low,2025-02-09
+Compressor - Variant 012,209.2,1.9,1.6,1.8,False,HighBay4,High,2025-01-31
+Compressor - Variant 013,209.2,2.0,1.8,1.4,False,HighBay3,Medium,2025-01-31
+Compressor - Variant 014,250.8,2.3,1.7,1.7,False,QualityControl,Medium,2024-12-26
+Compressor - Variant 015,299.4,2.3,1.4,1.4,False,HeavyItems,Low,2025-02-15
+Compressor - Variant 016,324.7,2.0,1.5,1.6,False,ZoneB,Low,2025-01-07
+Compressor - Variant 017,317.4,2.2,1.6,1.7,False,Aisle9,High,2025-01-02
+Compressor - Variant 018,196.2,2.7,1.5,1.2,False,Aisle1,High,2025-01-12
+Compressor - Variant 019,307.1,2.2,1.5,1.2,False,Rack9,Low,2025-01-18
+Compressor - Variant 020,205.8,2.6,1.8,1.6,False,Rack9,Medium,2025-01-06
